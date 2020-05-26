@@ -1,4 +1,4 @@
-##The first function, makeCacheMatrix creates a special "matrix"
+#The first function, makeCacheMatrix creates a special "matrix"
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
 # set the value of the matrix
